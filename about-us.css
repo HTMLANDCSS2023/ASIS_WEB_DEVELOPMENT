@@ -1,0 +1,166 @@
+.ITS-SOUP-TIME {
+	color: darkred;
+	margin-left: 430px;
+	font-size: 80px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 5px 5px 5px white;
+}
+body {
+	background-color: rgb(14,46,66);
+}
+.ITS-SOUP-TIMES {
+	color: darkred;
+	margin-left: 140px;
+	font-size: 80px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 5px 5px 5px white;
+}
+.logo {
+	margin-left: 560px;
+	border-radius: 100px;
+}
+.hr {
+	border: 1px solid whitesmoke;
+	border-radius: 1px;
+}
+.about-us {
+	font-size: 40px;
+	color: white;
+	font-weight: bold;
+	margin-left: 515px;
+}
+.history1 {
+	color: orange;
+	font-size: 25px;
+}
+.history {
+	color: white;
+	font-size: 18px;
+}
+.mission {
+	color: orange;
+	font-size: 25px;
+}
+.mision {
+	color: white;
+	font-size: 18px;
+}
+.values {
+	color: orange;
+	font-size: 25px;
+}
+.value {
+	color: white;
+	font-size: 18px;
+}
+.div-us {
+	margin-left: 40px;
+}
+.chef {
+	color: orange;
+	font-size: 25px;
+	margin-left: 500px;
+	font-weight: bold;
+}
+.chefpic{
+margin-left: 560PX;
+border-radius: 100px;
+}
+.assisstant {
+	color: orange;
+	font-size: 25px;
+	margin-left: 432px;
+	font-weight: bold;
+}
+.assisstantpic {
+	margin-left: 560px;
+	border-radius: 100px;
+}
+.kusina {
+	color: orange;
+	font-size: 25px;
+	margin-left: 563px;
+	font-weight: bold;
+}
+
+@media screen and (max-width: 538px)
+{
+.ITS-SOUP-TIME {
+	color: darkred;
+	margin-left: 80px;
+	font-size: 20px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 5px 5px 5px white;
+}
+.ITS-SOUP-TIMES {
+	color: darkred;
+	margin-left: 10px;
+	font-size: 20px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 5px 5px 5px white;
+}
+.logo {
+	margin-left: 65px;
+	border-radius: 100px;
+}
+
+.about-us {
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	margin-left: 65px;
+}
+.history1 {
+	color: orange;
+	font-size: 25px;
+}
+.history {
+	color: white;
+	font-size: 12px;
+}
+.mission {
+	color: orange;
+	font-size: 25px;
+}
+.mision {
+	color: white;
+	font-size: 12px;
+}
+.values {
+	color: orange;
+	font-size: 25px;
+}
+.value {
+	color: white;
+	font-size: 12px;
+}
+.div-us {
+	margin-left: 40px;
+}
+.chef {
+	color: orange;
+	font-size: 15px;
+	margin-left: 58px;
+	font-weight: bold;
+}
+.chefpic{
+margin-left: 65px;
+border-radius: 100px;
+}
+.assisstant {
+	color: orange;
+	font-size: 15px;
+	margin-left: 20px;
+	font-weight: bold;
+}
+.assisstantpic {
+	margin-left: 65px;
+	border-radius: 100px;
+}
+.kusina {
+	color: orange;
+	font-size: 15px;
+	margin-left: 97px;
+	font-weight: bold;
+}
+}

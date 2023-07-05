@@ -1,0 +1,90 @@
+.ITS-SOUP-TIME {
+	color: darkred;
+	margin-left: 430px;
+	font-size: 80px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 5px 5px 5px white;
+}
+body {
+	background-color: rgb(14,46,66);
+}
+.ITS-SOUP-TIMES {
+	color: darkred;
+	margin-left: 140px;
+	font-size: 80px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 5px 5px 5px white;
+}
+.logo {
+	margin-left: 560px;
+	border-radius: 100px;
+}
+.hr {
+	border: 1px solid whitesmoke;
+	border-radius: 1px;
+}
+.menu-button {
+	border-color: white;
+	background-color: darkred;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-radius: 7px;
+	color: white;
+	margin-left: 600px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.menu-button:hover {
+	opacity: 0.8;
+	transition: 0.15s;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.loc {
+	border-color: white;
+	background-color: darkred;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-radius: 7px;
+	color:white ;
+	margin-left: 592px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.loc:hover {
+	opacity: 0.8;
+	transition: 0.15s;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.menu {
+	margin-left: 60px;
+}
+
+@media screen and (max-width: 538px)
+{
+.ITS-SOUP-TIME {
+	color: darkred;
+	margin-left: 120px;
+	font-size: 20px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 5px 5px 5px white;
+}
+
+.ITS-SOUP-TIMES {
+	color: darkred;
+	margin-left: 47px;
+	font-size: 20px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 5px 5px 5px white;
+}
+.logo {
+	margin-left: 100px;
+	border-radius: 100px;
+}
+.menu {
+	margin-left: 25px;
+	height: 260px;
+	width: 310px;
+}
+}
